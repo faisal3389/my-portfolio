@@ -2,3 +2,28 @@ body {
   background-color: black;
   color: rgba(255, 255, 255, 0.8);
 }
+
+#landing {
+  height: 100vh;
+  background-image: url("/Users/faisalsiddiqui/workspace/my-portfolio/css/bg-img.png");
+  background-position: center;
+  background-size: cover;
+  background-repeat: no-repeat;
+  background-attachment: fixed;
+  z-index: -1;
+}
+#mainText {
+  margin-top: 30vh;
+}
+
+#intro {
+  margin-top: 50px;
+}
+
+#work {
+  background-color: rgb(61, 61, 61);
+}
+
+#p1 {
+  height: 350px;
+}
